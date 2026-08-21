@@ -215,8 +215,6 @@ function App() {
           title="Clear chat"
           aria-label="Clear chat"
         >
-          <FaTrash />
-
           <span>Clear</span>
         </button>
 
